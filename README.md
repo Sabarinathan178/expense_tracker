@@ -1,4 +1,5 @@
 Welcome to the Expense Tracker application! 🚀 This cutting-edge expense tracker, built on MERN (MongoDB, Express.js, React, Node.js) concepts, brings financial management to life. Experience features like income and expense logging, dynamic data visualization, detailed transaction history, and insightful analytics, all packed with interactive icons for an engaging user experience.
+
 Features 🌟
 1. User Authentication 🔐
   Secure your financial world with robust user authentication.
